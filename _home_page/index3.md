@@ -1,11 +1,6 @@
 ---
-title: Scoutbook
+title: Family Scouting
 ---
-Keeping track of all of these Cub Scout is hard, let alone communicating with
-all of the parents and keeping track of all of those fun events! To help with
-this, we use [Scoutbook](https://www.scoutbook.com/mobile/?ShowLogin=1) to help
-with all of this!
+Our pack is a "family scouting" pack.  This means that both boys and girls are invited to join our program.  Cub Scouts are organized into dens, grouped by age and gender.  All of the dens then come together for pack meetings and activities.
 
-When your boy joins, you will be sent an email to join ScoutBook. You will be
-able to track your boy's progress as well as RSVP for upcoming events
-and receive updates and reminders about all of our activities.
+Campouts and acitivities are family events and open to visitors who might be interested in joining scouting.  Bring mom, dad, uncle Joe, your long lost cousin, and the neighbor boy who always shows up at dinnertime.  We would love to meet them!
