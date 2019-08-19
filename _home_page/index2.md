@@ -1,21 +1,15 @@
 ---
 title: Purposes and Methods
 ---
-Cub Scouting has ten purposes related to the aims of the
-Boy Scouts of America:
+Cub Scouting uses the following methods in an age-appropriate way to reinforce the aims of scouting.  
+As the scouts grow and mature, so do these methods.
 
-1. Character Development
-2. Spiritual Growth
-3. Good Citizenship
-4. Sportsmanship and Fitness
-5. Family Understanding
-6. Respectful Relationships
-7. Personal Achievement
-8. Friendly Service
-9. Fun and Adventure
-10. Preparation for Boy Scouts
-
-Sound too serious? Silly songs, energetic games, and exciting trips
-all belong in Cub Scouting.
+1. Living the ideals
+2. Belonging to a den
+3. Advancement
+4. Family involvement
+5. Activities
+6. Serving the neighborhood
+7. Uniform
 
 [more about purposes and methods](http://www.scouting.org/scoutsource/CubScouts/Parents/About/pandm.aspx)
