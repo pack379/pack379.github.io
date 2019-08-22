@@ -14,3 +14,10 @@ All of the dens meet together for a larger pack meeting once a month.
 Interested in joining? Want more information?
 Our [Cubmaster](mailto:cubmaster@pack379.org) would love
 to hear from you!
+
+<div class="cognito">
+<script src="https://services.cognitoforms.com/s/rF5vcplHs0qAWm8XnP1e2A"></script>
+<script>Cognito.load("forms", { id: "1" });</script>
+</div>
+
+(If the form above did not load, click [here](https://www.cognitoforms.com/Pack379/ContactPack379).
