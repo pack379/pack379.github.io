@@ -20,4 +20,4 @@ to hear from you!
 <script>Cognito.load("forms", { id: "1" });</script>
 </div>
 
-(If the form above did not load, click [here](https://www.cognitoforms.com/Pack379/ContactPack379).
+(If the form above did not load, click [here](https://www.cognitoforms.com/Pack379/ContactPack379).)
