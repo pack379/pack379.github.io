@@ -11,6 +11,8 @@ also belong to a smaller group called a den.  The den meets a few times a
 month at a time and place according to the needs of the families in that den.
 All of the dens meet together for a larger pack meeting once a month.
 
+## Contact Us
+
 Interested in joining? Want more information?
 Our [Cubmaster](mailto:cubmaster@pack379.org) would love
 to hear from you!
@@ -21,3 +23,10 @@ to hear from you!
 </div>
 
 (If the form above did not load, click [here](https://www.cognitoforms.com/Pack379/ContactPack379).)
+
+## Let us Contact You
+
+If you would like to join our email list instead, click here: [Email Signup](https://mailchi.mp/e73087acaa3a/pack379).
+
+You can unsubscribe at any time by clicking the link at the bottom of any email.
+
