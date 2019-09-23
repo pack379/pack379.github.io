@@ -9,3 +9,4 @@ The following online forms are available:
 
 - [Contact Us](/about/)
 - [Pay Dues](/forms/dues/)
+- [Camporee Registration](/forms/camporee/)
