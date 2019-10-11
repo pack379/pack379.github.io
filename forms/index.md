@@ -11,6 +11,7 @@ The following online forms are available:
 - [Pay Dues](/forms/dues/)
 - [Camporee Registration](/forms/camporee/)
 - [Family Adventure Registration](/forms/familyadventure/)
+- [Wreath Fundraiser Order Form](/forms/wreaths/)
 
 See also the following pages with info for our members:
 
