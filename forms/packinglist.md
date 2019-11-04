@@ -5,7 +5,15 @@ permalink: /forms/packinglist/
 sidebar: false
 ---
 
+## Cub Scout Camping in Pictures
+
 <iframe src="https://wwcoc-my.sharepoint.com/:p:/g/personal/cameronking_pack379_org/EcMoj6DqyQhPqUGZitbdtmABAvyAG7bE6GoxMnqGQV-A7g?e=Mg4Wln&action=embedview&wdAr=1.3333333333333333" width="610px" height="481px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.  If it does not show on your screen, click <a href="https://wwcoc-my.sharepoint.com/:p:/g/personal/cameronking_pack379_org/EcMoj6DqyQhPqUGZitbdtmABAvyAG7bE6GoxMnqGQV-A7g?e=Mg4Wln&action=embedview&wdAr=1.3333333333333333">here</a></iframe>
 
+If it does not show on your screen, click <a href="https://wwcoc-my.sharepoint.com/:p:/g/personal/cameronking_pack379_org/EcMoj6DqyQhPqUGZitbdtmABAvyAG7bE6GoxMnqGQV-A7g?e=Mg4Wln&action=embedview&wdAr=1.3333333333333333">here</a>
+
+## Cub Scout Packing List
+
 <iframe src="https://wwcoc-my.sharepoint.com/:w:/g/personal/cameronking_pack379_org/EY6FzIuNJgFGlOlOnCoT9p0BpB63oOqqSvTrtpdoqROPxQ?e=IZ3yBF&action=embedview&wdStartOn=1" width="610px" height="800px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.  If it does not show on your screen, click <a href="https://wwcoc-my.sharepoint.com/:w:/g/personal/cameronking_pack379_org/EY6FzIuNJgFGlOlOnCoT9p0BpB63oOqqSvTrtpdoqROPxQ?e=IZ3yBF&action=embedview&wdStartOn=1">here</a></iframe>
+
+If it does not show on your screen, click <a href="https://wwcoc-my.sharepoint.com/:w:/g/personal/cameronking_pack379_org/EY6FzIuNJgFGlOlOnCoT9p0BpB63oOqqSvTrtpdoqROPxQ?e=IZ3yBF&action=embedview&wdStartOn=1">here</a>
 
