@@ -1,6 +1,12 @@
 Pack 379, Arlington, TX
 ============
 
+## Status
+
+This software is ABANDONED.
+
+This website was created for Pack 379 in Arlington, TX - but our chartered organization provides free web hosting alongside their own site.  This website moved to WordPress, where it is easier for non-technical users to contribute content.
+
 ## Development
 **tldr:** Run a current version of Ruby with `rbenv`, use the `bundler` gem to install
 dependencies and run `jekyll serve`.
